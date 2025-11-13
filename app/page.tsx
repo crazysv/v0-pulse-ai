@@ -10,6 +10,7 @@ import SocialImpact from "@/components/social-impact"
 import FeasibilityScalability from "@/components/feasibility-scalability"
 import Testimonials from "@/components/testimonials"
 import CallToAction from "@/components/call-to-action"
+import Footer from "@/components/footer"
 
 export default function Home() {
   return (
@@ -25,6 +26,7 @@ export default function Home() {
       <FeasibilityScalability />
       <Testimonials />
       <CallToAction />
+      <Footer />
     </main>
   )
 }
