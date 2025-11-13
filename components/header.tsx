@@ -31,7 +31,7 @@ export default function Header() {
               <Heart className="w-5 h-5 text-white" />
             </div>
             <span className="text-xl font-bold bg-gradient-to-r from-orange-600 to-green-600 bg-clip-text text-transparent">
-              Sarthi
+              Saarthi
             </span>
           </div>
           <nav className="hidden md:flex gap-8">
