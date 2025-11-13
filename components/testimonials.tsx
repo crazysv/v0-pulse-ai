@@ -72,7 +72,7 @@ export default function Testimonials() {
         <div className="mt-12 text-center">
           <p className="text-slate-600 dark:text-slate-400 mb-4">
             <span className="font-semibold text-slate-900 dark:text-white">Join 50,000+ students</span> already learning
-            with Pulse AI
+            with Saarthi
           </p>
         </div>
       </div>
